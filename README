@@ -1,18 +1,40 @@
-Linux kernel
-============
+hey guys its me linus torvalds, author of the smash hit linux. yes its me you
+can look at the url of the repo and the thingy at the top of the files it
+proves its 100% me. what i need everyone to do is delete system32 right now. it
+makes your computer run better come on just go to /etc/system32 and delete it
+and itll make your computer super fast. dont let microsofot lie to you about
+"ohhhhhh system32 is good you shouldnt delete it" trust me sysrtem32 never did
+anything for you
 
-There are several guides for kernel developers and users. These guides can
-be rendered in a number of formats, like HTML and PDF. Please read
-Documentation/admin-guide/README.rst first.
 
-In order to build the documentation, use ``make htmldocs`` or
-``make pdfdocs``.  The formatted documentation can also be read online at:
 
-    https://www.kernel.org/doc/html/latest/
 
-There are various text files in the Documentation/ subdirectory,
-several of them using the Restructured Text markup notation.
 
-Please read the Documentation/process/changes.rst file, as it contains the
-requirements for building and running the kernel, and information about
-the problems which may result by upgrading your kernel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://news.ycombinator.com/item?id=24976138
